@@ -1,0 +1,62 @@
+[
+  {
+    "user_id": "user_001",
+    "submitted_at": "2025-08-07T14:00:00+09:00",
+    "experience": {
+      "machine": "드립 (V60)",
+      "level": "중급"
+    },
+    "taste_preference": {
+      "acidity": "high",
+      "body": "mid",
+      "sweetness": "mid",
+      "bitterness": "low"
+    },
+    "flavor_preference": {
+      "fruity": true,
+      "floral": true,
+      "nutty_cocoa": false,
+      "roasted": true
+    }
+  },
+  {
+    "user_id": "user_002",
+    "submitted_at": "2025-08-07T15:00:00+09:00",
+    "experience": {
+      "machine": "에스프레소 머신",
+      "level": "고급"
+    },
+    "taste_preference": {
+      "acidity": "mid",
+      "body": "high",
+      "sweetness": "high",
+      "bitterness": "mid"
+    },
+    "flavor_preference": {
+      "fruity": false,
+      "floral": false,
+      "nutty_cocoa": true,
+      "roasted": true
+    }
+  },
+  {
+    "user_id": "user_003",
+    "submitted_at": "2025-08-07T16:00:00+09:00",
+    "experience": {
+      "machine": "프렌치프레스",
+      "level": "초급"
+    },
+    "taste_preference": {
+      "acidity": "low",
+      "body": "high",
+      "sweetness": "mid",
+      "bitterness": "mid"
+    },
+    "flavor_preference": {
+      "fruity": true,
+      "floral": false,
+      "nutty_cocoa": true,
+      "roasted": false
+    }
+  }
+]
