@@ -58,5 +58,25 @@
       "nutty_cocoa": true,
       "roasted": false
     }
+  },
+  {
+    "user_id": "test_user",
+    "submitted_at": "2025-08-07T17:00:00+09:00",
+    "experience": {
+      "machine": "드립 (V60)",
+      "level": "중급"
+    },
+    "taste_preference": {
+      "acidity": "high",
+      "body": "high",
+      "sweetness": "mid",
+      "bitterness": "low"
+    },
+    "flavor_preference": {
+      "fruity": true,
+      "floral": false,
+      "nutty_cocoa": true,
+      "roasted": true
+    }
   }
 ]

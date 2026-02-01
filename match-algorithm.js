@@ -1,8 +1,8 @@
 /**
  * 커피 × 사용자 매칭 알고리즘
  *
- * - taste_match_ratio: 사용자 맛 선호(low/mid/high)와 커피 taste_note(숫자) 일치도 (0~1)
- * - flavor_match_ratio: 사용자 향 선호(true인 카테고리)와 커피 cup_note.categories 일치도 (0~1)
+ * - taste_match_ratio: 사용자 맛 선호(low/mid/high)와 커피 taste(숫자) 일치도 (0~1)
+ * - flavor_match_ratio: 사용자 향 선호(true인 카테고리)와 커피 flavor.categories 일치도 (0~1)
  * - total_score: 0.6 * taste_match_ratio + 0.4 * flavor_match_ratio (0~1)
  */
 
@@ -35,7 +35,7 @@ const TASTE_DIMENSIONS = ['acidity', 'body', 'sweetness', 'bitterness'];
 
 /**
  * 커피 수치가 사용자 선호 구간(low/mid/high)에 들어가는지 여부
- * @param {number} value - 커피 taste_note 값 (예: 4.2)
+ * @param {number} value - 커피 taste 값 (예: 4.2)
  * @param {string} userLevel - 사용자 선호: 'low' | 'mid' | 'high'
  * @returns {boolean}
  */
@@ -52,7 +52,7 @@ function isInTasteBand(value, userLevel) {
 /**
  * taste_match_ratio 계산 (0~1)
  * 사용자 taste_preference(acidity, body, sweetness, bitterness 각각 low|mid|high)와
- * 커피 taste_note(숫자)를 비교해, 4개 차원 중 맞는 개수 / 4
+ * 커피 taste(숫자)를 비교해, 4개 차원 중 맞는 개수 / 4
  */
 function computeTasteMatchRatio(userTastePreference, coffeeTasteProfile) {
   let matchCount = 0;
@@ -78,7 +78,7 @@ function getPreferredFlavorCategories(flavorPreference) {
 
 /**
  * flavor_match_ratio 계산 (0~1)
- * 사용자 flavor_preference에서 true인 카테고리가 커피 cup_note.categories에
+ * 사용자 flavor_preference에서 true인 카테고리가 커피 flavor.categories에
  * 몇 개 포함되는지 / (사용자 선호 개수). 선호 0개면 0 반환.
  */
 function computeFlavorMatchRatio(userFlavorPreference, coffeeCategories) {
@@ -101,8 +101,8 @@ function computeTotalScore(tasteMatchRatio, flavorMatchRatio) {
  * 한 사용자 × 한 커피에 대한 매칭 점수 객체
  */
 function computeMatch(user, coffee) {
-  const tasteMatchRatio = computeTasteMatchRatio(user.taste_preference, coffee.taste_note);
-  const flavorMatchRatio = computeFlavorMatchRatio(user.flavor_preference, coffee.cup_note?.categories ?? []);
+  const tasteMatchRatio = computeTasteMatchRatio(user.taste_preference, coffee.taste);
+  const flavorMatchRatio = computeFlavorMatchRatio(user.flavor_preference, coffee.flavor?.categories ?? []);
   const totalScore = computeTotalScore(tasteMatchRatio, flavorMatchRatio);
   return {
     coffee_id: coffee.id,

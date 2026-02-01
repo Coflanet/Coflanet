@@ -6,13 +6,13 @@
     "variety": "Pink Bourbon",
     "processing": "Washed",
     "roast_point": 3,
-    "taste_note": {
+    "taste": {
       "acidity": 4.2,
       "body": 2.7,
       "sweetness": 3.5,
       "bitterness": 1
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Floral",
@@ -69,13 +69,13 @@
     "variety": "Heirloom",
     "processing": "Washed",
     "roast_point": 3,
-    "taste_note": {
+    "taste": {
       "acidity": 4.8,
       "body": 1.9,
       "sweetness": 2.8,
       "bitterness": 1.3
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Floral",
@@ -126,13 +126,13 @@
     "variety": "Bourbon",
     "processing": "Natural",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 2,
       "body": 3.8,
       "sweetness": 3.2,
       "bitterness": 2.5
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Nutty/Cocoa",
         "Roasted",
@@ -188,13 +188,13 @@
     "variety": "SL28 / SL34",
     "processing": "Washed",
     "roast_point": 4,
-    "taste_note": {
+    "taste": {
       "acidity": 4.6,
       "body": 3,
       "sweetness": 2.9,
       "bitterness": 1.6
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Nutty/Cocoa",
@@ -245,13 +245,13 @@
     "variety": "Caturra / Bourbon",
     "processing": "Washed",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 3.5,
       "body": 3.3,
       "sweetness": 3.8,
       "bitterness": 1.8
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Sweet",
         "Nutty/Cocoa",
@@ -302,13 +302,13 @@
     "variety": "Gesha",
     "processing": "Natural",
     "roast_point": 3,
-    "taste_note": {
+    "taste": {
       "acidity": 4.7,
       "body": 2.5,
       "sweetness": 3.9,
       "bitterness": 0.8
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Floral",
@@ -365,13 +365,13 @@
     "variety": "Typica",
     "processing": "Wet-Hulled",
     "roast_point": 7,
-    "taste_note": {
+    "taste": {
       "acidity": 1.5,
       "body": 4.5,
       "sweetness": 3.8,
       "bitterness": 3
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Roasted",
         "Nutty/Cocoa"
@@ -421,13 +421,13 @@
     "variety": "Caturra",
     "processing": "Honey",
     "roast_point": 4,
-    "taste_note": {
+    "taste": {
       "acidity": 3.3,
       "body": 3.2,
       "sweetness": 4.2,
       "bitterness": 1.1
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Sweet",
@@ -478,13 +478,13 @@
     "variety": "Bourbon",
     "processing": "Honey",
     "roast_point": 3,
-    "taste_note": {
+    "taste": {
       "acidity": 4,
       "body": 3,
       "sweetness": 3.6,
       "bitterness": 1.4
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Floral",
         "Fruity",
@@ -535,13 +535,13 @@
     "variety": "Heirloom",
     "processing": "Anaerobic Natural",
     "roast_point": 3,
-    "taste_note": {
+    "taste": {
       "acidity": 4.5,
       "body": 2.9,
       "sweetness": 3.8,
       "bitterness": 1.2
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Sour/Fermented",
@@ -593,13 +593,13 @@
     "variety": "Gesha",
     "processing": "Washed",
     "roast_point": 3,
-    "taste_note": {
+    "taste": {
       "acidity": 4.9,
       "body": 2.2,
       "sweetness": 4,
       "bitterness": 0.9
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Floral",
@@ -650,13 +650,13 @@
     "variety": "Catuai",
     "processing": "Washed",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 3.2,
       "body": 3.4,
       "sweetness": 3.5,
       "bitterness": 1.9
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Spices",
         "Nutty/Cocoa",
@@ -708,13 +708,13 @@
     "variety": "Arusha",
     "processing": "Washed",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 3.4,
       "body": 3.1,
       "sweetness": 3.3,
       "bitterness": 2
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Sweet",
@@ -765,13 +765,13 @@
     "variety": "Kent",
     "processing": "Washed",
     "roast_point": 4,
-    "taste_note": {
+    "taste": {
       "acidity": 4.1,
       "body": 2.8,
       "sweetness": 3.2,
       "bitterness": 1.5
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Roasted",
         "Nutty/Cocoa",
@@ -822,13 +822,13 @@
     "variety": "SL14",
     "processing": "Washed",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 3.6,
       "body": 3.5,
       "sweetness": 3.4,
       "bitterness": 2.1
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Floral",
         "Fruity",
@@ -879,13 +879,13 @@
     "variety": "Typica",
     "processing": "Washed",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 3.1,
       "body": 3.2,
       "sweetness": 3.6,
       "bitterness": 1.7
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Roasted",
@@ -936,13 +936,13 @@
     "variety": "Caturra",
     "processing": "Honey",
     "roast_point": 4,
-    "taste_note": {
+    "taste": {
       "acidity": 3.8,
       "body": 3.1,
       "sweetness": 3.7,
       "bitterness": 1.4
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Sweet",
         "Nutty/Cocoa",
@@ -993,13 +993,13 @@
     "variety": "Bourbon",
     "processing": "Washed",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 3.3,
       "body": 3.6,
       "sweetness": 3.5,
       "bitterness": 1.6
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Floral",
@@ -1050,13 +1050,13 @@
     "variety": "Selection 9",
     "processing": "Monsooned",
     "roast_point": 6,
-    "taste_note": {
+    "taste": {
       "acidity": 2.2,
       "body": 4,
       "sweetness": 3.2,
       "bitterness": 2.6
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Nutty/Cocoa",
         "Sweet",
@@ -1107,13 +1107,13 @@
     "variety": "Mocha",
     "processing": "Natural",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 3.5,
       "body": 3.8,
       "sweetness": 3.4,
       "bitterness": 2.3
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Floral",
@@ -1165,13 +1165,13 @@
     "variety": "Bourbon",
     "processing": "Washed",
     "roast_point": 4,
-    "taste_note": {
+    "taste": {
       "acidity": 3.7,
       "body": 2.9,
       "sweetness": 3.5,
       "bitterness": 1.5
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Sweet"
@@ -1221,13 +1221,13 @@
     "variety": "Caturra",
     "processing": "Washed",
     "roast_point": 4,
-    "taste_note": {
+    "taste": {
       "acidity": 4,
       "body": 2.8,
       "sweetness": 3.6,
       "bitterness": 1.2
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Roasted",
         "Spices",
@@ -1278,13 +1278,13 @@
     "variety": "Red Bourbon",
     "processing": "Washed",
     "roast_point": 4,
-    "taste_note": {
+    "taste": {
       "acidity": 4.2,
       "body": 3,
       "sweetness": 3.4,
       "bitterness": 1.3
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Floral",
         "Fruity",
@@ -1335,13 +1335,13 @@
     "variety": "Java",
     "processing": "Washed",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 3.4,
       "body": 3.3,
       "sweetness": 3.2,
       "bitterness": 2
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Nutty/Cocoa",
         "Roasted",
@@ -1392,13 +1392,13 @@
     "variety": "Typica",
     "processing": "Washed",
     "roast_point": 4,
-    "taste_note": {
+    "taste": {
       "acidity": 3.9,
       "body": 2.7,
       "sweetness": 3.5,
       "bitterness": 1.4
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Floral",
@@ -1449,13 +1449,13 @@
     "variety": "Typica",
     "processing": "Washed",
     "roast_point": 4,
-    "taste_note": {
+    "taste": {
       "acidity": 3.6,
       "body": 3.2,
       "sweetness": 3.8,
       "bitterness": 1.5
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Sweet",
         "Fruity",
@@ -1506,13 +1506,13 @@
     "variety": "Blue Mountain",
     "processing": "Washed",
     "roast_point": 4,
-    "taste_note": {
+    "taste": {
       "acidity": 3.2,
       "body": 3.5,
       "sweetness": 3.6,
       "bitterness": 1.7
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Sour/Fermented",
@@ -1564,13 +1564,13 @@
     "variety": "Caturra",
     "processing": "Washed",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 3.5,
       "body": 3.4,
       "sweetness": 3.3,
       "bitterness": 1.8
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Nutty/Cocoa",
         "Roasted",
@@ -1621,13 +1621,13 @@
     "variety": "Hybrid",
     "processing": "Semi-washed",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 2.8,
       "body": 3.6,
       "sweetness": 3.2,
       "bitterness": 2.2
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Fruity",
         "Floral",
@@ -1678,13 +1678,13 @@
     "variety": "Catimor",
     "processing": "Washed",
     "roast_point": 5,
-    "taste_note": {
+    "taste": {
       "acidity": 3.4,
       "body": 3.3,
       "sweetness": 3.4,
       "bitterness": 1.9
     },
-    "cup_note": {
+    "flavor": {
       "categories": [
         "Roasted",
         "Nutty/Cocoa",
