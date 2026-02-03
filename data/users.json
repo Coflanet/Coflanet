@@ -7,10 +7,10 @@
       "level": "중급"
     },
     "taste_preference": {
-      "acidity": "high",
-      "body": "mid",
-      "sweetness": "mid",
-      "bitterness": "low"
+      "acidity": 4.5,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 1.5
     },
     "flavor_preference": {
       "fruity": true,
@@ -27,10 +27,10 @@
       "level": "고급"
     },
     "taste_preference": {
-      "acidity": "mid",
-      "body": "high",
-      "sweetness": "high",
-      "bitterness": "mid"
+      "acidity": 2.5,
+      "body": 4.5,
+      "sweetness": 4.0,
+      "bitterness": 3.0
     },
     "flavor_preference": {
       "fruity": false,
@@ -47,10 +47,10 @@
       "level": "초급"
     },
     "taste_preference": {
-      "acidity": "low",
-      "body": "high",
-      "sweetness": "mid",
-      "bitterness": "mid"
+      "acidity": 1.5,
+      "body": 4.0,
+      "sweetness": 3.0,
+      "bitterness": 2.5
     },
     "flavor_preference": {
       "fruity": true,
@@ -67,10 +67,10 @@
       "level": "중급"
     },
     "taste_preference": {
-      "acidity": "high",
-      "body": "high",
-      "sweetness": "mid",
-      "bitterness": "low"
+      "acidity": 4.5,
+      "body": 4.0,
+      "sweetness": 3.0,
+      "bitterness": 1.5
     },
     "flavor_preference": {
       "fruity": true,

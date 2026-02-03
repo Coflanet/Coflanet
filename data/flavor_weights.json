@@ -46,21 +46,21 @@
     "category": "Fruity",
     "subCategory": "Dried fruit",
     "intensity": 4.62,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 1.15
   },
   {
     "descriptor": "Raisin",
     "category": "Fruity",
     "subCategory": "Dried fruit",
     "intensity": 5.75,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 1.15
   },
   {
     "descriptor": "Prune",
     "category": "Fruity",
     "subCategory": "Dried fruit",
     "intensity": 4.75,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 1.15
   },
   {
     "descriptor": "Other fruit",
@@ -81,49 +81,49 @@
     "category": "Fruity",
     "subCategory": "Other fruit",
     "intensity": 4,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1.25
   },
   {
     "descriptor": "Pomegranate",
     "category": "Fruity",
     "subCategory": "Other fruit",
     "intensity": 6.5,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1.2
   },
   {
     "descriptor": "Pineapple",
     "category": "Fruity",
     "subCategory": "Other fruit",
     "intensity": 6.25,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1.15
   },
   {
     "descriptor": "Grape",
     "category": "Fruity",
     "subCategory": "Other fruit",
     "intensity": 5,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1.2
   },
   {
     "descriptor": "Apple",
     "category": "Fruity",
     "subCategory": "Other fruit",
     "intensity": 5.5,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1.15
   },
   {
     "descriptor": "Peach",
     "category": "Fruity",
     "subCategory": "Other fruit",
     "intensity": 7.5,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1.2
   },
   {
     "descriptor": "Pear",
     "category": "Fruity",
     "subCategory": "Other fruit",
     "intensity": 7.5,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1.15
   },
   {
     "descriptor": "Citrus fruit",
@@ -172,49 +172,49 @@
     "category": "Sour/Fermented",
     "subCategory": "Sour",
     "intensity": 2.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Sour aromatics",
     "category": "Sour/Fermented",
     "subCategory": "Sour",
     "intensity": 2,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Acetic acid",
     "category": "Sour/Fermented",
     "subCategory": "Sour",
     "intensity": 2.83,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Butyric acid",
     "category": "Sour/Fermented",
     "subCategory": "Sour",
     "intensity": 2.75,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Isovaleric acid",
     "category": "Sour/Fermented",
     "subCategory": "Sour",
     "intensity": 3.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Citric acid",
     "category": "Sour/Fermented",
     "subCategory": "Sour",
     "intensity": 1.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Malic acid",
     "category": "Sour/Fermented",
     "subCategory": "Sour",
     "intensity": 4,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Alcohol/Fermented",
@@ -228,7 +228,7 @@
     "category": "Sour/Fermented",
     "subCategory": "Alcohol/Fermented",
     "intensity": 10,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 1.3
   },
   {
     "descriptor": "Whiskey",
@@ -242,245 +242,245 @@
     "category": "Sour/Fermented",
     "subCategory": "Alcohol/Fermented",
     "intensity": 6,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 1.05
   },
   {
     "descriptor": "Overripe",
     "category": "Sour/Fermented",
     "subCategory": "Alcohol/Fermented",
     "intensity": 6.5,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 1.05
   },
   {
     "descriptor": "Green/Vegetative",
     "category": "Green/Vegetative",
     "subCategory": "Green/Vegetative",
     "intensity": 6.56,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1
   },
   {
     "descriptor": "Olive oil",
     "category": "Green/Vegetative",
     "subCategory": "Olive oil",
     "intensity": 8.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Raw",
     "category": "Green/Vegetative",
     "subCategory": "Raw",
     "intensity": 3,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Green/Vegetative",
     "category": "Green/Vegetative",
     "subCategory": "Green/Vegetative",
     "intensity": 7.5,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1
   },
   {
     "descriptor": "Under-ripe",
     "category": "Green/Vegetative",
     "subCategory": "Green/Vegetative",
     "intensity": 7.5,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Peapod",
     "category": "Green/Vegetative",
     "subCategory": "Green/Vegetative",
     "intensity": 7,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Fresh",
     "category": "Green/Vegetative",
     "subCategory": "Green/Vegetative",
     "intensity": 7,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1
   },
   {
     "descriptor": "Dark green",
     "category": "Green/Vegetative",
     "subCategory": "Green/Vegetative",
     "intensity": 6,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1
   },
   {
     "descriptor": "Vegetative",
     "category": "Green/Vegetative",
     "subCategory": "Green/Vegetative",
     "intensity": 6,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1
   },
   {
     "descriptor": "Hay-like",
     "category": "Green/Vegetative",
     "subCategory": "Green/Vegetative",
     "intensity": 7.5,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Herb-like",
     "category": "Green/Vegetative",
     "subCategory": "Green/Vegetative",
     "intensity": 5.5,
-    "subCategoryWeight": 1.05
+    "subCategoryWeight": 1
   },
   {
     "descriptor": "Beany",
     "category": "Green/Vegetative",
     "subCategory": "Beany",
     "intensity": 7.25,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Other",
     "category": "Other",
     "subCategory": "Other",
     "intensity": 4.97,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Papery/Musty",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 6.39,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Stale",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 4.25,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Cardboard",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 7.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Papery",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 2.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Woody",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 5.17,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Moldy/Damp",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 8,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Musty/Dusty",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 7.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Musty/Earthy",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 10.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Animalic",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 3,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Meaty/Brothy",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 9.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Phenolic",
     "category": "Other",
     "subCategory": "Papery/Musty",
     "intensity": 6,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Chemical",
     "category": "Other",
     "subCategory": "Chemical",
     "intensity": 3.54,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Bitter",
     "category": "Other",
     "subCategory": "Chemical",
     "intensity": 4.25,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Salty",
     "category": "Other",
     "subCategory": "Chemical",
     "intensity": 1.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Medicinal",
     "category": "Other",
     "subCategory": "Chemical",
     "intensity": 5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.7
   },
   {
     "descriptor": "Petroleum",
     "category": "Other",
     "subCategory": "Chemical",
     "intensity": 3,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.5
   },
   {
     "descriptor": "Skunky",
     "category": "Other",
     "subCategory": "Chemical",
     "intensity": 2.5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.5
   },
   {
     "descriptor": "Rubber",
     "category": "Other",
     "subCategory": "Chemical",
     "intensity": 5,
-    "subCategoryWeight": 0.9
+    "subCategoryWeight": 0.5
   },
   {
     "descriptor": "Roasted",
     "category": "Roasted",
     "subCategory": "Roasted",
     "intensity": 8.38,
-    "subCategoryWeight": 1.25
+    "subCategoryWeight": 1.15
   },
   {
     "descriptor": "Pipe tobacco",
     "category": "Roasted",
     "subCategory": "Pipe tobacco",
     "intensity": 6.5,
-    "subCategoryWeight": 0.85
+    "subCategoryWeight": 1.05
   },
   {
     "descriptor": "Tobacco",
@@ -494,35 +494,35 @@
     "category": "Roasted",
     "subCategory": "Burnt",
     "intensity": 5.75,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Acrid",
     "category": "Roasted",
     "subCategory": "Burnt",
     "intensity": 5.17,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Ashy",
     "category": "Roasted",
     "subCategory": "Burnt",
     "intensity": 3.5,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Smoky",
     "category": "Roasted",
     "subCategory": "Burnt",
     "intensity": 4.88,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Brown, Roast",
     "category": "Roasted",
     "subCategory": "Burnt",
     "intensity": 4.75,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 0.85
   },
   {
     "descriptor": "Cereal",
@@ -557,14 +557,14 @@
     "category": "Spices",
     "subCategory": "Pungent",
     "intensity": 5,
-    "subCategoryWeight": 0.85
+    "subCategoryWeight": 1.05
   },
   {
     "descriptor": "Pepper",
     "category": "Spices",
     "subCategory": "Pepper",
     "intensity": 13,
-    "subCategoryWeight": 0.85
+    "subCategoryWeight": 1.05
   },
   {
     "descriptor": "Brown spice",
@@ -739,7 +739,7 @@
     "category": "Floral",
     "subCategory": "Black Tea",
     "intensity": 7.5,
-    "subCategoryWeight": 1
+    "subCategoryWeight": 1.15
   },
   {
     "descriptor": "Floral",
@@ -760,13 +760,13 @@
     "category": "Floral",
     "subCategory": "Floral",
     "intensity": 5,
-    "subCategoryWeight": 1.15
+    "subCategoryWeight": 1.3
   },
   {
     "descriptor": "Jasmine",
     "category": "Floral",
     "subCategory": "Floral",
     "intensity": 8.5,
-    "subCategoryWeight": 1.15
+    "subCategoryWeight": 1.3
   }
 ]
