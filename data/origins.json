@@ -1,0 +1,128 @@
+{
+  "mappings": {
+    "brazil": "Brazil",
+    "브라질": "Brazil",
+    "Brasil": "Brazil",
+
+    "ethiopia": "Ethiopia",
+    "에티오피아": "Ethiopia",
+    "ehiopia": "Ethiopia",
+    "에디오피아": "Ethiopia",
+
+    "colombia": "Colombia",
+    "콜롬비아": "Colombia",
+    "Columbia": "Colombia",
+
+    "honduras": "Honduras",
+    "온두라스": "Honduras",
+    "hondrus": "Honduras",
+    "onduras": "Honduras",
+
+    "guatemala": "Guatemala",
+    "과테말라": "Guatemala",
+
+    "costa rica": "Costa Rica",
+    "costarica": "Costa Rica",
+    "costracia": "Costa Rica",
+    "코스타리카": "Costa Rica",
+
+    "kenya": "Kenya",
+    "케냐": "Kenya",
+
+    "indonesia": "Indonesia",
+    "인도네시아": "Indonesia",
+
+    "india": "India",
+    "인도": "India",
+
+    "vietnam": "Vietnam",
+    "베트남": "Vietnam",
+
+    "el salvador": "El Salvador",
+    "elsalvador": "El Salvador",
+    "elsalbador": "El Salvador",
+    "엘살바도르": "El Salvador",
+
+    "nicaragua": "Nicaragua",
+    "니카라과": "Nicaragua",
+    "nikalagua": "Nicaragua",
+
+    "panama": "Panama",
+    "파나마": "Panama",
+
+    "peru": "Peru",
+    "페루": "Peru",
+
+    "ecuador": "Ecuador",
+    "에콰도르": "Ecuador",
+
+    "tanzania": "Tanzania",
+    "탄자니아": "Tanzania",
+
+    "hawaii": "Hawaii",
+    "하와이": "Hawaii",
+
+    "jamaica": "Jamaica",
+    "자메이카": "Jamaica",
+
+    "rwanda": "Rwanda",
+    "르완다": "Rwanda",
+
+    "burundi": "Burundi",
+    "부룬디": "Burundi",
+
+    "yemen": "Yemen",
+    "예멘": "Yemen",
+
+    "mexico": "Mexico",
+    "멕시코": "Mexico",
+
+    "bolivia": "Bolivia",
+    "볼리비아": "Bolivia",
+
+    "uganda": "Uganda",
+    "우간다": "Uganda",
+
+    "laos": "Laos",
+    "라오스": "Laos",
+
+    "myanmar": "Myanmar",
+    "미얀마": "Myanmar",
+
+    "china": "China",
+    "중국": "China",
+
+    "taiwan": "Taiwan",
+    "대만": "Taiwan"
+  },
+  "standard_origins": [
+    "Brazil",
+    "Ethiopia",
+    "Colombia",
+    "Honduras",
+    "Guatemala",
+    "Costa Rica",
+    "Kenya",
+    "Indonesia",
+    "India",
+    "Vietnam",
+    "El Salvador",
+    "Nicaragua",
+    "Panama",
+    "Peru",
+    "Ecuador",
+    "Tanzania",
+    "Hawaii",
+    "Jamaica",
+    "Rwanda",
+    "Burundi",
+    "Yemen",
+    "Mexico",
+    "Bolivia",
+    "Uganda",
+    "Laos",
+    "Myanmar",
+    "China",
+    "Taiwan"
+  ]
+}

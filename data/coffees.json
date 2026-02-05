@@ -1,45 +1,23 @@
 [
   {
     "id": "coffee_001",
-    "name": "Colombia Pink Bourbon",
-    "origin": "Colombia",
-    "variety": "Pink Bourbon",
-    "processing": "Washed",
-    "roast_point": 3,
+    "name": "테라로사",
+    "origin": [
+      "Brazil",
+      "Honduras"
+    ],
+    "roast_point": 8,
     "taste": {
-      "acidity": 4.2,
-      "body": 2.7,
-      "sweetness": 3.5,
-      "bitterness": 1
+      "acidity": 1,
+      "sweetness": 2,
+      "bitterness": 5,
+      "body": 5
     },
     "flavor": {
       "categories": [
-        "Fruity",
-        "Floral",
-        "Sweet",
         "Nutty/Cocoa"
       ],
       "descriptors": [
-        {
-          "category": "Fruity",
-          "subCategory": "Citrus fruit",
-          "descriptor": "Orange"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Berry",
-          "descriptor": "Strawberry"
-        },
-        {
-          "category": "Floral",
-          "subCategory": "Floral",
-          "descriptor": "Floral"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Overall sweet",
-          "descriptor": "Overall sweet"
-        },
         {
           "category": "Nutty/Cocoa",
           "subCategory": "Cocoa",
@@ -48,504 +26,192 @@
       ]
     },
     "product": {
-      "description": "오렌지, 딸기, 꽃향과 단맛이 조화를 이루는 Colombia 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_001.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 9156
-        },
-        {
-          "weight": "500g",
-          "price": 52238
-        }
-      ]
-    }
+      "price": 38400,
+      "price_per_100g": 3840,
+      "weight": "1kg",
+      "reviews": 1809,
+      "url": "https://www.coupang.com/vp/products/6924474148"
+    },
+    "recipe_override": {}
   },
   {
     "id": "coffee_002",
-    "name": "Ethiopia Yirgacheffe",
-    "origin": "Ethiopia",
-    "variety": "Heirloom",
-    "processing": "Washed",
-    "roast_point": 3,
+    "name": "르델",
+    "origin": [
+      "Brazil",
+      "India",
+      "Ethiopia"
+    ],
+    "roast_point": 6,
     "taste": {
-      "acidity": 4.8,
-      "body": 1.9,
-      "sweetness": 2.8,
-      "bitterness": 1.3
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4
     },
     "flavor": {
-      "categories": [
-        "Fruity",
-        "Floral",
-        "Sweet"
-      ],
-      "descriptors": [
-        {
-          "category": "Fruity",
-          "subCategory": "Other fruit",
-          "descriptor": "Coconut"
-        },
-        {
-          "category": "Floral",
-          "subCategory": "Black Tea",
-          "descriptor": "Black Tea"
-        },
-        {
-          "category": "Floral",
-          "subCategory": "Floral",
-          "descriptor": "Jasmine"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Vanillin",
-          "descriptor": "Vanillin"
-        }
-      ]
+      "categories": [],
+      "descriptors": []
     },
     "product": {
-      "description": "코코넛, 홍차, 자스민과 바닐라가 조화를 이루는 Ethiopia 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_002.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 13660
-        },
-        {
-          "weight": "500g",
-          "price": 54625
-        }
-      ]
-    }
+      "price": 33990,
+      "price_per_100g": 3400,
+      "weight": "1kg",
+      "reviews": 119,
+      "url": "https://www.coupang.com/vp/products/7972486309"
+    },
+    "recipe_override": {}
   },
   {
     "id": "coffee_003",
-    "name": "Brazil Natural",
-    "origin": "Brazil",
-    "variety": "Bourbon",
-    "processing": "Natural",
-    "roast_point": 5,
+    "name": "폴바셋 시그니처 블렌드",
+    "origin": [
+      "Brazil",
+      "Ethiopia"
+    ],
+    "roast_point": 6,
     "taste": {
-      "acidity": 2,
-      "body": 3.8,
-      "sweetness": 3.2,
-      "bitterness": 2.5
-    },
-    "flavor": {
-      "categories": [
-        "Nutty/Cocoa",
-        "Roasted",
-        "Sweet"
-      ],
-      "descriptors": [
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty",
-          "descriptor": "Almond"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty",
-          "descriptor": "Almond"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Roasted",
-          "descriptor": "Roasted"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Burnt",
-          "descriptor": "Brown, Roast"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Brown sugar",
-          "descriptor": "Honey"
-        }
-      ]
-    },
-    "product": {
-      "description": "아몬드, 로스팅, 브라운 로스트과 꿀이 조화를 이루는 Brazil 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_003.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 14662
-        },
-        {
-          "weight": "500g",
-          "price": 40589
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_004",
-    "name": "Kenya AA",
-    "origin": "Kenya",
-    "variety": "SL28 / SL34",
-    "processing": "Washed",
-    "roast_point": 4,
-    "taste": {
-      "acidity": 4.6,
-      "body": 3,
-      "sweetness": 2.9,
-      "bitterness": 1.6
+      "acidity": 3,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3
     },
     "flavor": {
       "categories": [
         "Fruity",
         "Nutty/Cocoa",
-        "Roasted"
+        "Sweet"
       ],
       "descriptors": [
         {
           "category": "Fruity",
           "subCategory": "Berry",
-          "descriptor": "Raspberry"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Berry",
-          "descriptor": "Raspberry"
+          "descriptor": "Berry"
         },
         {
           "category": "Nutty/Cocoa",
           "subCategory": "Cocoa",
-          "descriptor": "Dark chocolate"
+          "descriptor": "Chocolate"
         },
         {
-          "category": "Roasted",
-          "subCategory": "Cereal",
-          "descriptor": "Cereal"
+          "category": "Sweet",
+          "subCategory": "Sweet",
+          "descriptor": "Sweet"
         }
       ]
     },
     "product": {
-      "description": "라즈베리, 다크 초콜릿과 곡물이 조화를 이루는 Kenya 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_004.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 10701
-        },
-        {
-          "weight": "500g",
-          "price": 40547
-        }
-      ]
-    }
+      "price": 21350,
+      "price_per_100g": 10680,
+      "weight": "200g",
+      "reviews": 277,
+      "url": "https://www.coupang.com/vp/products/2207425944"
+    },
+    "recipe_override": {}
   },
   {
-    "id": "coffee_005",
-    "name": "Guatemala Antigua",
-    "origin": "Guatemala",
-    "variety": "Caturra / Bourbon",
-    "processing": "Washed",
-    "roast_point": 5,
+    "id": "coffee_004",
+    "name": "할리데이 에디오피아 예가체프 G2",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 4,
     "taste": {
       "acidity": 3.5,
-      "body": 3.3,
-      "sweetness": 3.8,
-      "bitterness": 1.8
-    },
-    "flavor": {
-      "categories": [
-        "Sweet",
-        "Nutty/Cocoa",
-        "Roasted"
-      ],
-      "descriptors": [
-        {
-          "category": "Sweet",
-          "subCategory": "Vanillin",
-          "descriptor": "Vanillin"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Vanillin",
-          "descriptor": "Vanillin"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty",
-          "descriptor": "Peanuts"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Cereal",
-          "descriptor": "Cereal"
-        }
-      ]
-    },
-    "product": {
-      "description": "바닐라, 땅콩과 곡물이 조화를 이루는 Guatemala 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_005.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 11321
-        },
-        {
-          "weight": "500g",
-          "price": 45071
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_006",
-    "name": "Ethiopia Gesha Natural",
-    "origin": "Ethiopia",
-    "variety": "Gesha",
-    "processing": "Natural",
-    "roast_point": 3,
-    "taste": {
-      "acidity": 4.7,
-      "body": 2.5,
-      "sweetness": 3.9,
-      "bitterness": 0.8
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
     },
     "flavor": {
       "categories": [
         "Fruity",
-        "Floral",
-        "Sweet",
-        "Nutty/Cocoa"
+        "Green/Vegetative",
+        "Sweet"
       ],
       "descriptors": [
         {
           "category": "Fruity",
           "subCategory": "Other fruit",
-          "descriptor": "Grape"
+          "descriptor": "Lychee"
         },
         {
-          "category": "Floral",
-          "subCategory": "Black Tea",
-          "descriptor": "Black Tea"
+          "category": "Green/Vegetative",
+          "subCategory": "Green/Vegetative",
+          "descriptor": "Herb-like"
         },
         {
           "category": "Sweet",
           "subCategory": "Brown sugar",
           "descriptor": "Brown sugar"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Vanillin",
-          "descriptor": "Vanillin"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Cocoa",
-          "descriptor": "Dark chocolate"
         }
       ]
     },
     "product": {
-      "description": "포도, 홍차, 흑설탕과 바닐라가 조화를 이루는 Ethiopia 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_006.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 10493
-        },
-        {
-          "weight": "500g",
-          "price": 44741
-        }
-      ]
-    }
+      "price": 36500,
+      "price_per_100g": 3650,
+      "weight": "1kg",
+      "reviews": 39,
+      "url": "https://www.coupang.com/vp/products/8371786081"
+    },
+    "recipe_override": {}
   },
   {
-    "id": "coffee_007",
-    "name": "Sumatra Mandheling",
-    "origin": "Indonesia",
-    "variety": "Typica",
-    "processing": "Wet-Hulled",
+    "id": "coffee_005",
+    "name": "모모스 하우스 블렌드",
+    "origin": [
+      "Brazil",
+      "Ethiopia"
+    ],
     "roast_point": 7,
     "taste": {
-      "acidity": 1.5,
-      "body": 4.5,
-      "sweetness": 3.8,
-      "bitterness": 3
+      "acidity": 2,
+      "sweetness": 3.5,
+      "bitterness": 4,
+      "body": 4
     },
     "flavor": {
       "categories": [
-        "Roasted",
-        "Nutty/Cocoa"
-      ],
-      "descriptors": [
-        {
-          "category": "Roasted",
-          "subCategory": "Burnt",
-          "descriptor": "Smoky"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Burnt",
-          "descriptor": "Brown, Roast"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Cocoa",
-          "descriptor": "Cocoa"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty/Cocoa",
-          "descriptor": "Nutty/Cocoa"
-        }
-      ]
-    },
-    "product": {
-      "description": "스모키, 브라운 로스트, 코코아과 견과·코코아가 조화를 이루는 Sumatra 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_007.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 15002
-        },
-        {
-          "weight": "500g",
-          "price": 49028
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_008",
-    "name": "Costa Rica Honey",
-    "origin": "Costa Rica",
-    "variety": "Caturra",
-    "processing": "Honey",
-    "roast_point": 4,
-    "taste": {
-      "acidity": 3.3,
-      "body": 3.2,
-      "sweetness": 4.2,
-      "bitterness": 1.1
-    },
-    "flavor": {
-      "categories": [
-        "Fruity",
-        "Sweet",
-        "Floral"
-      ],
-      "descriptors": [
-        {
-          "category": "Fruity",
-          "subCategory": "Citrus fruit",
-          "descriptor": "Grapefruit"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Citrus fruit",
-          "descriptor": "Orange"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Sweet",
-          "descriptor": "Sweet"
-        },
-        {
-          "category": "Floral",
-          "subCategory": "Floral",
-          "descriptor": "Chamomile"
-        }
-      ]
-    },
-    "product": {
-      "description": "자몽, 오렌지, 단맛과 캐모마일이 조화를 이루는 코스타리카 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_008.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 11971
-        },
-        {
-          "weight": "500g",
-          "price": 57025
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_009",
-    "name": "Rwanda Bourbon Honey",
-    "origin": "Rwanda",
-    "variety": "Bourbon",
-    "processing": "Honey",
-    "roast_point": 3,
-    "taste": {
-      "acidity": 4,
-      "body": 3,
-      "sweetness": 3.6,
-      "bitterness": 1.4
-    },
-    "flavor": {
-      "categories": [
-        "Floral",
-        "Fruity",
+        "Nutty/Cocoa",
         "Sweet"
       ],
       "descriptors": [
         {
-          "category": "Floral",
-          "subCategory": "Floral",
-          "descriptor": "Floral"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Other fruit",
-          "descriptor": "Pomegranate"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Citrus fruit",
-          "descriptor": "Grapefruit"
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
         },
         {
           "category": "Sweet",
-          "subCategory": "Overall sweet",
-          "descriptor": "Overall sweet"
+          "subCategory": "Brown sugar",
+          "descriptor": "Caramelized"
         }
       ]
     },
     "product": {
-      "description": "꽃향, 석류, 자몽과 단맛이 조화를 이루는 Rwanda 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_009.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 15181
-        },
-        {
-          "weight": "500g",
-          "price": 43096
-        }
-      ]
-    }
+      "price": 36900,
+      "price_per_100g": 3690,
+      "weight": "1kg",
+      "reviews": 68,
+      "url": "https://www.coupang.com/vp/products/6698177963"
+    },
+    "recipe_override": {}
   },
   {
-    "id": "coffee_010",
-    "name": "Ethiopia Anaerobic Natural",
-    "origin": "Ethiopia",
-    "variety": "Heirloom",
-    "processing": "Anaerobic Natural",
-    "roast_point": 3,
+    "id": "coffee_006",
+    "name": "수미커피 에디오피아 예가체프 G1",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 4,
     "taste": {
-      "acidity": 4.5,
-      "body": 2.9,
-      "sweetness": 3.8,
-      "bitterness": 1.2
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
     },
     "flavor": {
       "categories": [
         "Fruity",
-        "Sour/Fermented",
-        "Roasted",
         "Sweet"
       ],
       "descriptors": [
@@ -555,14 +221,14 @@
           "descriptor": "Pineapple"
         },
         {
-          "category": "Sour/Fermented",
-          "subCategory": "Sour",
-          "descriptor": "Malic acid"
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
         },
         {
-          "category": "Roasted",
-          "subCategory": "Roasted",
-          "descriptor": "Roasted"
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Blueberry"
         },
         {
           "category": "Sweet",
@@ -572,604 +238,27 @@
       ]
     },
     "product": {
-      "description": "파인애플, 산미, 로스팅과 꿀이 조화를 이루는 Ethiopia 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_010.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 11152
-        },
-        {
-          "weight": "500g",
-          "price": 62269
-        }
-      ]
-    }
+      "price": 25500,
+      "price_per_100g": 5100,
+      "weight": "500g",
+      "reviews": 296,
+      "url": "https://www.coupang.com/vp/products/8933015438"
+    },
+    "recipe_override": {}
   },
   {
-    "id": "coffee_011",
-    "name": "Panama Geisha",
-    "origin": "Panama",
-    "variety": "Gesha",
-    "processing": "Washed",
-    "roast_point": 3,
-    "taste": {
-      "acidity": 4.9,
-      "body": 2.2,
-      "sweetness": 4,
-      "bitterness": 0.9
-    },
-    "flavor": {
-      "categories": [
-        "Fruity",
-        "Floral",
-        "Roasted"
-      ],
-      "descriptors": [
-        {
-          "category": "Fruity",
-          "subCategory": "Berry",
-          "descriptor": "Berry"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Dried fruit",
-          "descriptor": "Prune"
-        },
-        {
-          "category": "Floral",
-          "subCategory": "Floral",
-          "descriptor": "Floral"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Pipe tobacco",
-          "descriptor": "Pipe tobacco"
-        }
-      ]
-    },
-    "product": {
-      "description": "베리, 자두, 꽃향과 파이프 담배가 조화를 이루는 Panama 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_011.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 11360
-        },
-        {
-          "weight": "500g",
-          "price": 45018
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_012",
-    "name": "Honduras Marcala",
-    "origin": "Honduras",
-    "variety": "Catuai",
-    "processing": "Washed",
-    "roast_point": 5,
-    "taste": {
-      "acidity": 3.2,
-      "body": 3.4,
-      "sweetness": 3.5,
-      "bitterness": 1.9
-    },
-    "flavor": {
-      "categories": [
-        "Spices",
-        "Nutty/Cocoa",
-        "Roasted",
-        "Sweet"
-      ],
-      "descriptors": [
-        {
-          "category": "Spices",
-          "subCategory": "Pepper",
-          "descriptor": "Pepper"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty",
-          "descriptor": "Nutty"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Burnt",
-          "descriptor": "Ashy"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Brown sugar",
-          "descriptor": "Caramelized"
-        }
-      ]
-    },
-    "product": {
-      "description": "후추, 견과, 애쉬과 캐러멜이 조화를 이루는 Honduras 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_012.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 15057
-        },
-        {
-          "weight": "500g",
-          "price": 50257
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_013",
-    "name": "Papua New Guinea",
-    "origin": "Papua New Guinea",
-    "variety": "Arusha",
-    "processing": "Washed",
-    "roast_point": 5,
-    "taste": {
-      "acidity": 3.4,
-      "body": 3.1,
-      "sweetness": 3.3,
-      "bitterness": 2
-    },
-    "flavor": {
-      "categories": [
-        "Fruity",
-        "Sweet",
-        "Nutty/Cocoa"
-      ],
-      "descriptors": [
-        {
-          "category": "Fruity",
-          "subCategory": "Other fruit",
-          "descriptor": "Apple"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Overall sweet",
-          "descriptor": "Overall sweet"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Sweet",
-          "descriptor": "Sweet"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty/Cocoa",
-          "descriptor": "Nutty/Cocoa"
-        }
-      ]
-    },
-    "product": {
-      "description": "사과, 단맛, 단맛과 견과·코코아가 조화를 이루는 Papua 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_013.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 9423
-        },
-        {
-          "weight": "500g",
-          "price": 65328
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_014",
-    "name": "Tanzania Kilimanjaro",
-    "origin": "Tanzania",
-    "variety": "Kent",
-    "processing": "Washed",
+    "id": "coffee_007",
+    "name": "모모스 므쵸베리",
+    "origin": [
+      "Ethiopia",
+      "Colombia"
+    ],
     "roast_point": 4,
-    "taste": {
-      "acidity": 4.1,
-      "body": 2.8,
-      "sweetness": 3.2,
-      "bitterness": 1.5
-    },
-    "flavor": {
-      "categories": [
-        "Roasted",
-        "Nutty/Cocoa",
-        "Sweet"
-      ],
-      "descriptors": [
-        {
-          "category": "Roasted",
-          "subCategory": "Burnt",
-          "descriptor": "Burnt"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Cocoa",
-          "descriptor": "Chocolate"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty",
-          "descriptor": "Almond"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Brown sugar",
-          "descriptor": "Mapple syrup"
-        }
-      ]
-    },
-    "product": {
-      "description": "번트, 초콜릿, 아몬드과 메이플 시럽이 조화를 이루는 Tanzania 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_014.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 10202
-        },
-        {
-          "weight": "500g",
-          "price": 43602
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_015",
-    "name": "Uganda Bugisu",
-    "origin": "Uganda",
-    "variety": "SL14",
-    "processing": "Washed",
-    "roast_point": 5,
-    "taste": {
-      "acidity": 3.6,
-      "body": 3.5,
-      "sweetness": 3.4,
-      "bitterness": 2.1
-    },
-    "flavor": {
-      "categories": [
-        "Floral",
-        "Fruity",
-        "Sweet"
-      ],
-      "descriptors": [
-        {
-          "category": "Floral",
-          "subCategory": "Floral",
-          "descriptor": "Floral"
-        },
-        {
-          "category": "Floral",
-          "subCategory": "Floral",
-          "descriptor": "Chamomile"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Dried fruit",
-          "descriptor": "Raisin"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Overall sweet",
-          "descriptor": "Overall sweet"
-        }
-      ]
-    },
-    "product": {
-      "description": "꽃향, 캐모마일, 건포도과 단맛이 조화를 이루는 Uganda 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_015.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 14591
-        },
-        {
-          "weight": "500g",
-          "price": 53530
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_016",
-    "name": "Peru Chanchamayo",
-    "origin": "Peru",
-    "variety": "Typica",
-    "processing": "Washed",
-    "roast_point": 5,
-    "taste": {
-      "acidity": 3.1,
-      "body": 3.2,
-      "sweetness": 3.6,
-      "bitterness": 1.7
-    },
-    "flavor": {
-      "categories": [
-        "Fruity",
-        "Roasted",
-        "Nutty/Cocoa"
-      ],
-      "descriptors": [
-        {
-          "category": "Fruity",
-          "subCategory": "Other fruit",
-          "descriptor": "Pineapple"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Cereal",
-          "descriptor": "Grain"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Cereal",
-          "descriptor": "Malt"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty",
-          "descriptor": "Hazelnut"
-        }
-      ]
-    },
-    "product": {
-      "description": "파인애플, 곡물, 몰트과 헤이즐넛이 조화를 이루는 Peru 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_016.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 13636
-        },
-        {
-          "weight": "500g",
-          "price": 66508
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_017",
-    "name": "Nicaragua Jinotega",
-    "origin": "Nicaragua",
-    "variety": "Caturra",
-    "processing": "Honey",
-    "roast_point": 4,
-    "taste": {
-      "acidity": 3.8,
-      "body": 3.1,
-      "sweetness": 3.7,
-      "bitterness": 1.4
-    },
-    "flavor": {
-      "categories": [
-        "Sweet",
-        "Nutty/Cocoa",
-        "Roasted"
-      ],
-      "descriptors": [
-        {
-          "category": "Sweet",
-          "subCategory": "Sweet",
-          "descriptor": "Sweet"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Brown sugar",
-          "descriptor": "Caramelized"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty",
-          "descriptor": "Nutty"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Burnt",
-          "descriptor": "Smoky"
-        }
-      ]
-    },
-    "product": {
-      "description": "단맛, 캐러멜, 견과과 스모키가 조화를 이루는 Nicaragua 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_017.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 9915
-        },
-        {
-          "weight": "500g",
-          "price": 40608
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_018",
-    "name": "El Salvador Santa Ana",
-    "origin": "El Salvador",
-    "variety": "Bourbon",
-    "processing": "Washed",
-    "roast_point": 5,
-    "taste": {
-      "acidity": 3.3,
-      "body": 3.6,
-      "sweetness": 3.5,
-      "bitterness": 1.6
-    },
-    "flavor": {
-      "categories": [
-        "Fruity",
-        "Floral",
-        "Roasted"
-      ],
-      "descriptors": [
-        {
-          "category": "Fruity",
-          "subCategory": "Other fruit",
-          "descriptor": "Pear"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Berry",
-          "descriptor": "Berry"
-        },
-        {
-          "category": "Floral",
-          "subCategory": "Floral",
-          "descriptor": "Floral"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Cereal",
-          "descriptor": "Cereal"
-        }
-      ]
-    },
-    "product": {
-      "description": "배, 베리, 꽃향과 곡물이 조화를 이루는 엘살바도르 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_018.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 9476
-        },
-        {
-          "weight": "500g",
-          "price": 65763
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_019",
-    "name": "India Chikmagalur",
-    "origin": "India",
-    "variety": "Selection 9",
-    "processing": "Monsooned",
-    "roast_point": 6,
-    "taste": {
-      "acidity": 2.2,
-      "body": 4,
-      "sweetness": 3.2,
-      "bitterness": 2.6
-    },
-    "flavor": {
-      "categories": [
-        "Nutty/Cocoa",
-        "Sweet",
-        "Roasted"
-      ],
-      "descriptors": [
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty",
-          "descriptor": "Almond"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty/Cocoa",
-          "descriptor": "Nutty/Cocoa"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Brown sugar",
-          "descriptor": "Mapple syrup"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Burnt",
-          "descriptor": "Burnt"
-        }
-      ]
-    },
-    "product": {
-      "description": "아몬드, 견과·코코아, 메이플 시럽과 번트가 조화를 이루는 India 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_019.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 9599
-        },
-        {
-          "weight": "500g",
-          "price": 40412
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_020",
-    "name": "Yemen Mocha",
-    "origin": "Yemen",
-    "variety": "Mocha",
-    "processing": "Natural",
-    "roast_point": 5,
     "taste": {
       "acidity": 3.5,
-      "body": 3.8,
-      "sweetness": 3.4,
-      "bitterness": 2.3
-    },
-    "flavor": {
-      "categories": [
-        "Fruity",
-        "Floral",
-        "Nutty/Cocoa",
-        "Roasted"
-      ],
-      "descriptors": [
-        {
-          "category": "Fruity",
-          "subCategory": "Fruity",
-          "descriptor": "Fruity"
-        },
-        {
-          "category": "Floral",
-          "subCategory": "Black Tea",
-          "descriptor": "Black Tea"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Cocoa",
-          "descriptor": "Chocolate"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Pipe tobacco",
-          "descriptor": "Pipe tobacco"
-        }
-      ]
-    },
-    "product": {
-      "description": "과일, 홍차, 초콜릿과 파이프 담배가 조화를 이루는 Yemen 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_020.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 13012
-        },
-        {
-          "weight": "500g",
-          "price": 56371
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_021",
-    "name": "Mexico Chiapas",
-    "origin": "Mexico",
-    "variety": "Bourbon",
-    "processing": "Washed",
-    "roast_point": 4,
-    "taste": {
-      "acidity": 3.7,
-      "body": 2.9,
-      "sweetness": 3.5,
-      "bitterness": 1.5
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
     },
     "flavor": {
       "categories": [
@@ -1177,129 +266,10 @@
         "Sweet"
       ],
       "descriptors": [
-        {
-          "category": "Fruity",
-          "subCategory": "Dried fruit",
-          "descriptor": "Raisin"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Dried fruit",
-          "descriptor": "Prune"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Brown sugar",
-          "descriptor": "Caramelized"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Sweet Aromatics",
-          "descriptor": "Sweet Aromatics"
-        }
-      ]
-    },
-    "product": {
-      "description": "건포도, 자두, 캐러멜과 스위트 아로마가 조화를 이루는 Mexico 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_021.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 15249
-        },
-        {
-          "weight": "500g",
-          "price": 50485
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_022",
-    "name": "Bolivia Caranavi",
-    "origin": "Bolivia",
-    "variety": "Caturra",
-    "processing": "Washed",
-    "roast_point": 4,
-    "taste": {
-      "acidity": 4,
-      "body": 2.8,
-      "sweetness": 3.6,
-      "bitterness": 1.2
-    },
-    "flavor": {
-      "categories": [
-        "Roasted",
-        "Spices",
-        "Nutty/Cocoa"
-      ],
-      "descriptors": [
-        {
-          "category": "Roasted",
-          "subCategory": "Cereal",
-          "descriptor": "Malt"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Burnt",
-          "descriptor": "Burnt"
-        },
-        {
-          "category": "Spices",
-          "subCategory": "Pungent",
-          "descriptor": "Pungent"
-        },
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Nutty",
-          "descriptor": "Hazelnut"
-        }
-      ]
-    },
-    "product": {
-      "description": "몰트, 번트, 훈연과 헤이즐넛이 조화를 이루는 Bolivia 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_022.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 15051
-        },
-        {
-          "weight": "500g",
-          "price": 69528
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_023",
-    "name": "Burundi Kayanza",
-    "origin": "Burundi",
-    "variety": "Red Bourbon",
-    "processing": "Washed",
-    "roast_point": 4,
-    "taste": {
-      "acidity": 4.2,
-      "body": 3,
-      "sweetness": 3.4,
-      "bitterness": 1.3
-    },
-    "flavor": {
-      "categories": [
-        "Floral",
-        "Fruity",
-        "Sweet"
-      ],
-      "descriptors": [
-        {
-          "category": "Floral",
-          "subCategory": "Floral",
-          "descriptor": "Chamomile"
-        },
         {
           "category": "Fruity",
           "subCategory": "Berry",
-          "descriptor": "Raspberry"
+          "descriptor": "Berry"
         },
         {
           "category": "Fruity",
@@ -1308,117 +278,141 @@
         },
         {
           "category": "Sweet",
-          "subCategory": "Sweet",
-          "descriptor": "Sweet"
-        }
-      ]
-    },
-    "product": {
-      "description": "캐모마일, 라즈베리, 체리과 단맛이 조화를 이루는 Burundi 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_023.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 15048
-        },
-        {
-          "weight": "500g",
-          "price": 40784
-        }
-      ]
-    }
-  },
-  {
-    "id": "coffee_024",
-    "name": "Cameroon Boyo",
-    "origin": "Cameroon",
-    "variety": "Java",
-    "processing": "Washed",
-    "roast_point": 5,
-    "taste": {
-      "acidity": 3.4,
-      "body": 3.3,
-      "sweetness": 3.2,
-      "bitterness": 2
-    },
-    "flavor": {
-      "categories": [
-        "Nutty/Cocoa",
-        "Roasted",
-        "Sweet"
-      ],
-      "descriptors": [
-        {
-          "category": "Nutty/Cocoa",
-          "subCategory": "Cocoa",
-          "descriptor": "Dark chocolate"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Cereal",
-          "descriptor": "Cereal"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Tobacco",
-          "descriptor": "Tobacco"
-        },
-        {
-          "category": "Sweet",
           "subCategory": "Brown sugar",
           "descriptor": "Mapple syrup"
         }
       ]
     },
     "product": {
-      "description": "다크 초콜릿, 곡물, 담배과 메이플 시럽이 조화를 이루는 Cameroon 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_024.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 12878
-        },
-        {
-          "weight": "500g",
-          "price": 55024
-        }
-      ]
-    }
+      "price": 38900,
+      "price_per_100g": 7780,
+      "weight": "500g",
+      "reviews": 27,
+      "url": "https://www.coupang.com/vp/products/8648382244"
+    },
+    "recipe_override": {}
   },
   {
-    "id": "coffee_025",
-    "name": "Ecuador Loja",
-    "origin": "Ecuador",
-    "variety": "Typica",
-    "processing": "Washed",
-    "roast_point": 4,
+    "id": "coffee_008",
+    "name": "수달리 고소한 너티초코",
+    "origin": [
+      "Brazil",
+      "Colombia",
+      "India"
+    ],
+    "roast_point": 8,
     "taste": {
-      "acidity": 3.9,
-      "body": 2.7,
-      "sweetness": 3.5,
-      "bitterness": 1.4
+      "acidity": 0.5,
+      "sweetness": 2.5,
+      "bitterness": 5,
+      "body": 5
     },
     "flavor": {
       "categories": [
-        "Fruity",
-        "Floral",
-        "Nutty/Cocoa"
+        "Nutty/Cocoa",
+        "Sweet",
+        "Roasted"
       ],
       "descriptors": [
         {
-          "category": "Fruity",
-          "subCategory": "Berry",
-          "descriptor": "Blackberry"
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Nutty"
         },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Brown sugar"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        }
+      ]
+    },
+    "product": {
+      "price": 29900,
+      "price_per_100g": 2990,
+      "weight": "1kg",
+      "reviews": 5083,
+      "url": "https://www.coupang.com/vp/products/7378868550"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_009",
+    "name": "수달리 에디오피아 예가체프 G2",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 2.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity"
+      ],
+      "descriptors": [
         {
           "category": "Floral",
           "subCategory": "Floral",
           "descriptor": "Floral"
         },
         {
-          "category": "Floral",
-          "subCategory": "Black Tea",
-          "descriptor": "Black Tea"
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Lemon"
+        }
+      ]
+    },
+    "product": {
+      "price": 29900,
+      "price_per_100g": 2990,
+      "weight": "1kg",
+      "reviews": 1051,
+      "url": "https://www.coupang.com/vp/products/6949474397"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_010",
+    "name": "컬트 커피랩 과테말라",
+    "origin": [
+      "Guatemala"
+    ],
+    "roast_point": 6,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
         },
         {
           "category": "Nutty/Cocoa",
@@ -1428,96 +422,169 @@
       ]
     },
     "product": {
-      "description": "블랙베리, 꽃향, 홍차과 견과가 조화를 이루는 Ecuador 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_025.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 10442
-        },
-        {
-          "weight": "500g",
-          "price": 61216
-        }
-      ]
-    }
+      "price": 10409,
+      "price_per_100g": 5225,
+      "weight": "200g",
+      "reviews": 26,
+      "url": "https://www.coupang.com/vp/products/8422726643"
+    },
+    "recipe_override": {}
   },
   {
-    "id": "coffee_026",
-    "name": "Hawaii Kona",
-    "origin": "USA",
-    "variety": "Typica",
-    "processing": "Washed",
-    "roast_point": 4,
+    "id": "coffee_011",
+    "name": "벙커컴퍼니 #8.5",
+    "origin": [
+      "Ethiopia",
+      "Colombia",
+      "India"
+    ],
+    "roast_point": null,
     "taste": {
-      "acidity": 3.6,
-      "body": 3.2,
-      "sweetness": 3.8,
-      "bitterness": 1.5
+      "acidity": 4,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [],
+      "descriptors": []
+    },
+    "product": {
+      "price": 53000,
+      "price_per_100g": 5300,
+      "weight": "1kg",
+      "reviews": 11,
+      "url": "https://www.coupang.com/vp/products/5970976317"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_012",
+    "name": "라이언 바닐라 마카다미아",
+    "origin": [],
+    "roast_point": 3,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 2
     },
     "flavor": {
       "categories": [
-        "Sweet",
-        "Fruity",
-        "Roasted"
+        "Nutty/Cocoa",
+        "Sweet"
       ],
       "descriptors": [
         {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Macadamia"
+        },
+        {
           "category": "Sweet",
-          "subCategory": "Brown sugar",
-          "descriptor": "Caramelized"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Citrus fruit",
-          "descriptor": "Grapefruit"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Citrus fruit",
-          "descriptor": "Lemon"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Burnt",
-          "descriptor": "Ashy"
+          "subCategory": "Vanilla",
+          "descriptor": "Vanilla"
         }
       ]
     },
     "product": {
-      "description": "캐러멜, 자몽, 레몬과 애쉬가 조화를 이루는 Hawaii 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_026.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 10980
-        },
-        {
-          "weight": "500g",
-          "price": 54277
-        }
-      ]
-    }
+      "price": 36900,
+      "price_per_100g": 5430,
+      "weight": "680g",
+      "reviews": 2870,
+      "url": "https://www.coupang.com/vp/products/166190069"
+    },
+    "recipe_override": {}
   },
   {
-    "id": "coffee_027",
-    "name": "Jamaica Blue Mountain",
-    "origin": "Jamaica",
-    "variety": "Blue Mountain",
-    "processing": "Washed",
-    "roast_point": 4,
+    "id": "coffee_013",
+    "name": "쿠키나인 과테말라",
+    "origin": [
+      "Guatemala"
+    ],
+    "roast_point": 5,
     "taste": {
-      "acidity": 3.2,
-      "body": 3.5,
-      "sweetness": 3.6,
-      "bitterness": 1.7
+      "acidity": 3,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 4
     },
     "flavor": {
       "categories": [
-        "Fruity",
-        "Sour/Fermented",
-        "Sweet",
-        "Roasted"
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Almond"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Walnut"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Dark chocolate"
+        }
+      ]
+    },
+    "product": {
+      "price": 19900,
+      "price_per_100g": 4980,
+      "weight": "200g",
+      "reviews": 17,
+      "url": "https://www.coupang.com/vp/products/8702724297"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_014",
+    "name": "룰리커피 오리지널 블렌드",
+    "origin": [
+      "Brazil",
+      "Tanzania",
+      "Colombia",
+      "Costa Rica"
+    ],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4.5
+    },
+    "flavor": {
+      "categories": [],
+      "descriptors": []
+    },
+    "product": {
+      "price": 36000,
+      "price_per_100g": 3600,
+      "weight": "1kg",
+      "reviews": 11,
+      "url": "https://www.coupang.com/vp/products/8702724297"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_015",
+    "name": "사운즈 커피 에디오피아 이디도",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
       ],
       "descriptors": [
         {
@@ -1526,55 +593,445 @@
           "descriptor": "Prune"
         },
         {
-          "category": "Sour/Fermented",
-          "subCategory": "Sour",
-          "descriptor": "Citric acid"
-        },
-        {
-          "category": "Sweet",
-          "subCategory": "Sweet",
-          "descriptor": "Sweet"
-        },
-        {
-          "category": "Roasted",
-          "subCategory": "Pipe tobacco",
-          "descriptor": "Pipe tobacco"
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
         }
       ]
     },
     "product": {
-      "description": "자두, 시트릭 산, 단맛과 파이프 담배가 조화를 이루는 Jamaica 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_027.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 15738
-        },
-        {
-          "weight": "500g",
-          "price": 66814
-        }
-      ]
-    }
+      "price": 19500,
+      "price_per_100g": 3900,
+      "weight": "500g",
+      "reviews": 1,
+      "url": "https://www.coupang.com/vp/products/9103262051"
+    },
+    "recipe_override": {}
   },
   {
-    "id": "coffee_028",
-    "name": "Myanmar Shan",
-    "origin": "Myanmar",
-    "variety": "Caturra",
-    "processing": "Washed",
-    "roast_point": 5,
+    "id": "coffee_016",
+    "name": "오클락커피 에디오피아 아바야 게이샤",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": null,
     "taste": {
       "acidity": 3.5,
-      "body": 3.4,
-      "sweetness": 3.3,
-      "bitterness": 1.8
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Cranberry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Raspberry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Almond"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Brown sugar"
+        }
+      ]
+    },
+    "product": {
+      "price": 43810,
+      "price_per_100g": 4381,
+      "weight": "1kg",
+      "reviews": 55,
+      "url": "https://www.coupang.com/vp/products/8200318470"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_017",
+    "name": "아눅커피 어썸블렌드",
+    "origin": [
+      "Brazil"
+    ],
+    "roast_point": 8,
+    "taste": {
+      "acidity": 1,
+      "sweetness": 2,
+      "bitterness": 5,
+      "body": 5
     },
     "flavor": {
       "categories": [
         "Nutty/Cocoa",
-        "Roasted",
         "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Cocoa"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Nutty"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Vanilla",
+          "descriptor": "Vanilla"
+        }
+      ]
+    },
+    "product": {
+      "price": 19900,
+      "price_per_100g": 1990,
+      "weight": "1kg",
+      "reviews": 15,
+      "url": "https://www.coupang.com/vp/products/7634925632"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_018",
+    "name": "커피를 생각하다 블라썸",
+    "origin": [],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Cocoa"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Brown sugar"
+        }
+      ]
+    },
+    "product": {
+      "price": 30700,
+      "price_per_100g": 3070,
+      "weight": "1kg",
+      "reviews": 92,
+      "url": "https://www.coupang.com/vp/products/8327469971"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_019",
+    "name": "가배인 에디오피아 예가체프",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 2.5,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Dried fruit",
+          "descriptor": "Prune"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Blackberry"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Brown sugar"
+        }
+      ]
+    },
+    "product": {
+      "price": 94490,
+      "price_per_100g": 9449,
+      "weight": "1kg",
+      "reviews": 255,
+      "url": "https://www.coupang.com/vp/products/7408911057"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_020",
+    "name": "JMD 커피 컴패니 에디오피아",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        }
+      ]
+    },
+    "product": {
+      "price": 26390,
+      "price_per_100g": 5280,
+      "weight": "500g",
+      "reviews": 704,
+      "url": "https://www.coupang.com/vp/products/7821227314"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_021",
+    "name": "블랙빈스 케냐",
+    "origin": [
+      "Kenya"
+    ],
+    "roast_point": 8,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 2,
+      "bitterness": 5,
+      "body": 4.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Grapefruit"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Black Currant"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        }
+      ]
+    },
+    "product": {
+      "price": 30910,
+      "price_per_100g": 30910,
+      "weight": "1kg",
+      "reviews": 91,
+      "url": "https://www.coupang.com/vp/products/8513943632"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_022",
+    "name": "빈오너스 딥초코",
+    "origin": [
+      "Brazil",
+      "Kenya",
+      "Colombia"
+    ],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 1.5,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4.5
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Nutty"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Dark chocolate"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Caramelized"
+        }
+      ]
+    },
+    "product": {
+      "price": 30000,
+      "price_per_100g": 3000,
+      "weight": "1kg",
+      "reviews": 23,
+      "url": "https://www.coupang.com/vp/products/8864039850"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_023",
+    "name": "사운즈 라떼를위한 블렌드",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": 6,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3.5,
+      "bitterness": 4,
+      "body": 4.5
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        }
+      ]
+    },
+    "product": {
+      "price": 279000,
+      "price_per_100g": 2790,
+      "weight": "1kg",
+      "reviews": 6,
+      "url": "https://www.coupang.com/vp/products/9063882311"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_024",
+    "name": "블루보틀 밸런스",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": 5,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sour/Fermented",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Cocoa"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Lemon"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Caramelized"
+        }
+      ]
+    },
+    "product": {
+      "price": 17900,
+      "price_per_100g": 8950,
+      "weight": "200g",
+      "reviews": 43,
+      "url": "https://www.coupang.com/vp/products/8987099930"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_025",
+    "name": "나무사이로 풍요로운 땅",
+    "origin": [
+      "Brazil",
+      "Colombia",
+      "Honduras"
+    ],
+    "roast_point": 8,
+    "taste": {
+      "acidity": 1,
+      "sweetness": 2,
+      "bitterness": 5,
+      "body": 5
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sour/Fermented"
       ],
       "descriptors": [
         {
@@ -1588,9 +1045,51 @@
           "descriptor": "Cocoa"
         },
         {
-          "category": "Roasted",
-          "subCategory": "Tobacco",
-          "descriptor": "Tobacco"
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Lemon"
+        }
+      ]
+    },
+    "product": {
+      "price": 43000,
+      "price_per_100g": 4300,
+      "weight": "1kg",
+      "reviews": 2,
+      "url": "https://www.coupang.com/vp/products/8003954388"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_026",
+    "name": "로우키 블렌드",
+    "origin": [
+      "Brazil",
+      "El Salvador",
+      "Colombia"
+    ],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Nutty"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Dark chocolate"
         },
         {
           "category": "Sweet",
@@ -1600,102 +1099,379 @@
       ]
     },
     "product": {
-      "description": "땅콩, 코코아, 담배과 캐러멜이 조화를 이루는 Myanmar 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_028.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 9163
-        },
-        {
-          "weight": "500g",
-          "price": 40387
-        }
-      ]
-    }
+      "price": 59300,
+      "price_per_100g": 5930,
+      "weight": "1kg",
+      "reviews": 0,
+      "url": "https://www.coupang.com/vp/products/8490886475"
+    },
+    "recipe_override": {}
   },
   {
-    "id": "coffee_029",
-    "name": "Timor Leste Ermera",
-    "origin": "Timor-Leste",
-    "variety": "Hybrid",
-    "processing": "Semi-washed",
-    "roast_point": 5,
+    "id": "coffee_027",
+    "name": "델문도 에디오피아 케라모",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 4,
     "taste": {
-      "acidity": 2.8,
-      "body": 3.6,
-      "sweetness": 3.2,
-      "bitterness": 2.2
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        }
+      ]
+    },
+    "product": {
+      "price": 60000,
+      "price_per_100g": 6000,
+      "weight": "1kg",
+      "reviews": 1,
+      "url": "https://www.coupang.com/vp/products/7865520586"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_028",
+    "name": "테라로사 과테말라 우에우에",
+    "origin": [
+      "Guatemala"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 1,
+      "sweetness": 2,
+      "bitterness": 5,
+      "body": 5
     },
     "flavor": {
       "categories": [
         "Fruity",
-        "Floral",
+        "Nutty/Cocoa",
         "Sweet"
       ],
       "descriptors": [
         {
           "category": "Fruity",
           "subCategory": "Dried fruit",
-          "descriptor": "Raisin"
+          "descriptor": "Prune"
         },
         {
-          "category": "Fruity",
-          "subCategory": "Citrus fruit",
-          "descriptor": "Lime"
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Pistachio"
         },
         {
-          "category": "Floral",
-          "subCategory": "Black Tea",
-          "descriptor": "Black Tea"
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
         },
         {
           "category": "Sweet",
-          "subCategory": "Overall sweet",
-          "descriptor": "Overall sweet"
+          "subCategory": "Brown sugar",
+          "descriptor": "Caramelized"
         }
       ]
     },
     "product": {
-      "description": "건포도, 라임, 홍차와 단맛이 조화를 이루는 티모르 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_029.jpg",
-      "weight_options": [
-        {
-          "weight": "100g",
-          "price": 10440
-        },
-        {
-          "weight": "500g",
-          "price": 65841
-        }
-      ]
-    }
+      "price": 35000,
+      "price_per_100g": 7000,
+      "weight": "500g",
+      "reviews": 143,
+      "url": "https://www.coupang.com/vp/products/7530712116"
+    },
+    "recipe_override": {}
   },
   {
-    "id": "coffee_030",
-    "name": "Zambia Northern",
-    "origin": "Zambia",
-    "variety": "Catimor",
-    "processing": "Washed",
-    "roast_point": 5,
+    "id": "coffee_029",
+    "name": "로엘 켈리포니아 블렌드",
+    "origin": [
+      "Brazil",
+      "Colombia"
+    ],
+    "roast_point": 7,
     "taste": {
-      "acidity": 3.4,
-      "body": 3.3,
-      "sweetness": 3.4,
-      "bitterness": 1.9
+      "acidity": 1.5,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4.5
     },
     "flavor": {
       "categories": [
-        "Roasted",
-        "Nutty/Cocoa",
-        "Sweet",
+        "Fruity",
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Almond"
+        }
+      ]
+    },
+    "product": {
+      "price": 16800,
+      "price_per_100g": 3360,
+      "weight": "500g",
+      "reviews": 68,
+      "url": "https://www.coupang.com/vp/products/8451541322"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_030",
+    "name": "빈오너스 아란치오 블렌드",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 6,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Pineapple"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Honey"
+        }
+      ]
+    },
+    "product": {
+      "price": 17000,
+      "price_per_100g": 8500,
+      "weight": "200g",
+      "reviews": 1,
+      "url": "https://www.coupang.com/vp/products/8666084243"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_031",
+    "name": "컬트 커피랩 브라질 스페셜티",
+    "origin": [
+      "Brazil"
+    ],
+    "roast_point": 6,
+    "taste": {
+      "acidity": 1.5,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4.5
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Dark chocolate"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Almond"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Hazelnut"
+        }
+      ]
+    },
+    "product": {
+      "price": 36990,
+      "price_per_100g": 3700,
+      "weight": "1kg",
+      "reviews": 10,
+      "url": "https://www.coupang.com/vp/products/8416569978"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_032",
+    "name": "오클락커피 에디오피아 구지",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 5,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
         "Fruity"
       ],
       "descriptors": [
         {
-          "category": "Roasted",
-          "subCategory": "Burnt",
-          "descriptor": "Burnt"
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Apple"
+        }
+      ]
+    },
+    "product": {
+      "price": 26500,
+      "price_per_100g": 5300,
+      "weight": "500g",
+      "reviews": 16,
+      "url": "https://www.coupang.com/vp/products/8289859523"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_033",
+    "name": "블루보틀 볼드",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": 9,
+    "taste": {
+      "acidity": 1,
+      "sweetness": 2.5,
+      "bitterness": 5,
+      "body": 5
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Dark chocolate"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Hazelnut"
+        }
+      ]
+    },
+    "product": {
+      "price": 17120,
+      "price_per_100g": 8560,
+      "weight": "200g",
+      "reviews": 140,
+      "url": "https://www.coupang.com/vp/products/7210186640"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_034",
+    "name": "커피의신 하와이안 코나",
+    "origin": [
+      "Hawaii"
+    ],
+    "roast_point": 3,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Nutty"
+        }
+      ]
+    },
+    "product": {
+      "price": 336000,
+      "price_per_100g": 33600,
+      "weight": "1kg",
+      "reviews": 0,
+      "url": "https://www.coupang.com/vp/products/8288489915"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_035",
+    "name": "볼라오커피 라오스 싱글",
+    "origin": [],
+    "roast_point": null,
+    "taste": {
+      "acidity": null,
+      "sweetness": null,
+      "bitterness": null,
+      "body": null
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Dried fruit",
+          "descriptor": "Raisin"
         },
         {
           "category": "Nutty/Cocoa",
@@ -1705,33 +1481,2692 @@
         {
           "category": "Sweet",
           "subCategory": "Brown sugar",
-          "descriptor": "Mapple syrup"
+          "descriptor": "Brown sugar"
+        }
+      ]
+    },
+    "product": {
+      "price": 30900,
+      "price_per_100g": 3090,
+      "weight": "1kg",
+      "reviews": 46,
+      "url": "https://www.coupang.com/vp/products/8402311139"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_036",
+    "name": "맥널티 하와이안 코나",
+    "origin": [
+      "Brazil",
+      "Kenya",
+      "Costa Rica",
+      "Hawaii"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Walnut"
+        }
+      ]
+    },
+    "product": {
+      "price": 28900,
+      "price_per_100g": 2890,
+      "weight": "1kg",
+      "reviews": 61,
+      "url": "https://www.coupang.com/vp/products/7612947135"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_037",
+    "name": "맥널티 게이샤 블렌딩",
+    "origin": [
+      "Ethiopia",
+      "Colombia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [],
+      "descriptors": []
+    },
+    "product": {
+      "price": 36280,
+      "price_per_100g": 36280,
+      "weight": "1kg",
+      "reviews": 146,
+      "url": "https://www.coupang.com/vp/products/7612947477"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_038",
+    "name": "위트러스트 콜롬비아 더블무산소",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3.5,
+      "bitterness": 4,
+      "body": 4.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sour/Fermented"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        },
+        {
+          "category": "Sour/Fermented",
+          "subCategory": "Alcohol/Fermented",
+          "descriptor": "Fermented"
+        }
+      ]
+    },
+    "product": {
+      "price": 22000,
+      "price_per_100g": 11000,
+      "weight": "200g",
+      "reviews": 9,
+      "url": "https://www.coupang.com/vp/products/7826592925"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_039",
+    "name": "일킬로커피 에디오피아 무산소",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 5,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity",
+        "Sour/Fermented"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Black Tea",
+          "descriptor": "Black Tea"
+        },
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Floral"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Apple"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Lemon"
+        },
+        {
+          "category": "Sour/Fermented",
+          "subCategory": "Alcohol/Fermented",
+          "descriptor": "Winey"
+        }
+      ]
+    },
+    "product": {
+      "price": 52800,
+      "price_per_100g": 13200,
+      "weight": "400g",
+      "reviews": 10,
+      "url": "https://www.coupang.com/vp/products/5269870972"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_040",
+    "name": "JMD 에디오피아 첼바",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Grape"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Apple"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Honey"
+        }
+      ]
+    },
+    "product": {
+      "price": 25500,
+      "price_per_100g": 5100,
+      "weight": "500g",
+      "reviews": 41,
+      "url": "https://www.coupang.com/vp/products/8844668574"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_041",
+    "name": "ACR 메리제인 블렌딩",
+    "origin": [
+      "Ethiopia",
+      "Colombia",
+      "Costa Rica"
+    ],
+    "roast_point": 5,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Dried fruit",
+          "descriptor": "Prune"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Molasses"
+        }
+      ]
+    },
+    "product": {
+      "price": 22800,
+      "price_per_100g": 11400,
+      "weight": "200g",
+      "reviews": 10,
+      "url": "https://www.coupang.com/vp/products/8813771332"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_042",
+    "name": "커피 리브레 배드블렌딩",
+    "origin": [
+      "Costa Rica",
+      "Ethiopia",
+      "Nicaragua"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Sour/Fermented",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Sour/Fermented",
+          "subCategory": "Sour",
+          "descriptor": "Sour"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Molasses"
+        }
+      ]
+    },
+    "product": {
+      "price": 17450,
+      "price_per_100g": 8730,
+      "weight": "200g",
+      "reviews": 75,
+      "url": "https://www.coupang.com/vp/products/5387711962"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_043",
+    "name": "올인커피 케냐 포도봉봉 (가향)",
+    "origin": [
+      "Kenya"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Grapefruit"
+        }
+      ]
+    },
+    "product": {
+      "price": 10500,
+      "price_per_100g": 10500,
+      "weight": "100g",
+      "reviews": 2,
+      "url": "https://www.coupang.com/vp/products/8691036916"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_044",
+    "name": "훔볼트 피오네르 블렌드",
+    "origin": [
+      "Brazil",
+      "Ethiopia"
+    ],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity",
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Black Tea",
+          "descriptor": "Black Tea"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Caramelized"
+        }
+      ]
+    },
+    "product": {
+      "price": 27310,
+      "price_per_100g": 2731,
+      "weight": "1kg",
+      "reviews": 326,
+      "url": "https://www.coupang.com/vp/products/5453596114"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_045",
+    "name": "사운즈커피 복숭아 케냐 (가향)",
+    "origin": [
+      "Kenya",
+      "Colombia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 4.5,
+      "sweetness": 3.5,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Sweet",
+          "descriptor": "Sweet"
+        }
+      ]
+    },
+    "product": {
+      "price": 29500,
+      "price_per_100g": 5900,
+      "weight": "500g",
+      "reviews": 0,
+      "url": "https://www.coupang.com/vp/products/9126230010"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_046",
+    "name": "사운즈커피 워터멜론 콜롬비아 (가향)",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3.5,
+      "bitterness": 1,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Sweet",
+          "subCategory": "Sweet",
+          "descriptor": "Sweet"
+        }
+      ]
+    },
+    "product": {
+      "price": 44000,
+      "price_per_100g": 8800,
+      "weight": "500g",
+      "reviews": 0,
+      "url": "https://www.coupang.com/vp/products/9126258603"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_047",
+    "name": "블랙빈스 헤이즐넛향 커피",
+    "origin": [],
+    "roast_point": 8,
+    "taste": {
+      "acidity": 1,
+      "sweetness": 4,
+      "bitterness": 5,
+      "body": 5
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Hazelnut"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Nutty"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Caramelized"
+        }
+      ]
+    },
+    "product": {
+      "price": 22850,
+      "price_per_100g": 2280,
+      "weight": "1kg",
+      "reviews": 162,
+      "url": "https://www.coupang.com/vp/products/8542724214"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_048",
+    "name": "SC컴퍼니 카라멜향 커피",
+    "origin": [
+      "Vietnam"
+    ],
+    "roast_point": 6,
+    "taste": {
+      "acidity": 1,
+      "sweetness": 4,
+      "bitterness": 4,
+      "body": 5
+    },
+    "flavor": {
+      "categories": [
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Caramelized"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Sweet",
+          "descriptor": "Sweet"
+        }
+      ]
+    },
+    "product": {
+      "price": 13440,
+      "price_per_100g": 2690,
+      "weight": "500g",
+      "reviews": 29,
+      "url": "https://www.coupang.com/vp/products/8448740631"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_049",
+    "name": "프릳츠 올드독 블랜딩",
+    "origin": [
+      "Costa Rica",
+      "India",
+      "El Salvador"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Dark chocolate"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Brown sugar"
+        }
+      ]
+    },
+    "product": {
+      "price": 16990,
+      "price_per_100g": 8500,
+      "weight": "200g",
+      "reviews": 73,
+      "url": "https://www.coupang.com/vp/products/8198344516"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_050",
+    "name": "온니컵 콜롬비아 칸도르 게이샤 워시드",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [],
+      "descriptors": []
+    },
+    "product": {
+      "price": 24000,
+      "price_per_100g": 24000,
+      "weight": "100g",
+      "reviews": 3,
+      "url": "https://smartstore.naver.com/coffeecodij/products/10453860428"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_051",
+    "name": "온니컵 풀블랙 블렌딩",
+    "origin": [
+      "Brazil"
+    ],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Nutty"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Caramelized"
+        }
+      ]
+    },
+    "product": {
+      "price": 33000,
+      "price_per_100g": 3880,
+      "weight": "850g",
+      "reviews": 36,
+      "url": "https://smartstore.naver.com/coffeecodij/products/7237278416"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_052",
+    "name": "딥블루레이크 온두라스 로스피노스",
+    "origin": [],
+    "roast_point": null,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Lychee"
+        }
+      ]
+    },
+    "product": {
+      "price": 18000,
+      "price_per_100g": 18000,
+      "weight": "100g",
+      "reviews": 0,
+      "url": "https://dblcoffee.com/product/detail.html?product_no=453"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_053",
+    "name": "필아웃 엘살바도르 산안드레스",
+    "origin": [
+      "El Salvador"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Dried fruit",
+          "descriptor": "Prune"
+        }
+      ]
+    },
+    "product": {
+      "price": 22000,
+      "price_per_100g": 11000,
+      "weight": "200g",
+      "reviews": 4,
+      "url": "https://smartstore.naver.com/filloutcoffee/products/11637593798"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_054",
+    "name": "필아웃 시나몬게이트 (가향)",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Spices"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        },
+        {
+          "category": "Spices",
+          "subCategory": "Brown spice",
+          "descriptor": "Cinnamon"
+        }
+      ]
+    },
+    "product": {
+      "price": 24000,
+      "price_per_100g": 12000,
+      "weight": "200g",
+      "reviews": 206,
+      "url": "https://smartstore.naver.com/filloutcoffee/products/8427587166"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_055",
+    "name": "필아웃 에디오피아 타미루 알로 무산소",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 3,
+    "taste": {
+      "acidity": 4.5,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 1.5
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Floral"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        }
+      ]
+    },
+    "product": {
+      "price": 25000,
+      "price_per_100g": 12500,
+      "weight": "200g",
+      "reviews": 5,
+      "url": "https://smartstore.naver.com/filloutcoffee/products/11637556454"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_056",
+    "name": "필아웃 플로럴게이트 (가향)",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity",
+        "Green/Vegetative"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Floral"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Lemon"
+        },
+        {
+          "category": "Green/Vegetative",
+          "subCategory": "Green/Vegetative",
+          "descriptor": "Herb-like"
+        }
+      ]
+    },
+    "product": {
+      "price": 24000,
+      "price_per_100g": 12000,
+      "weight": "200g",
+      "reviews": 31,
+      "url": "https://smartstore.naver.com/filloutcoffee/products/11637388217"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_057",
+    "name": "엘커피 코스타리카 엘사르 데 사르세로",
+    "origin": [
+      "Costa Rica"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
         },
         {
           "category": "Sweet",
           "subCategory": "Vanilla",
           "descriptor": "Vanilla"
-        },
-        {
-          "category": "Fruity",
-          "subCategory": "Other fruit",
-          "descriptor": "Pear"
         }
       ]
     },
     "product": {
-      "description": "번트, 코코아, 메이플 시럽과 바닐라가 조화를 이루는 Zambia 원두. 깔끔한 산미와 달콤한 여운이 특징입니다.",
-      "image_url": "https://dummy.coflanet.com/images/coffee_030.jpg",
-      "weight_options": [
+      "price": 17000,
+      "price_per_100g": 8500,
+      "weight": "200g",
+      "reviews": 0,
+      "url": "https://elcafe.co.kr/product/966"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_058",
+    "name": "엘커피 에디오피아 벤사 게메초 내추럴",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 1,
+    "taste": {
+      "acidity": 4.5,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 1.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
         {
-          "weight": "100g",
-          "price": 10683
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
         },
         {
-          "weight": "500g",
-          "price": 57916
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
         }
       ]
-    }
+    },
+    "product": {
+      "price": 22000,
+      "price_per_100g": 11000,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://elcafe.co.kr/product/961"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_059",
+    "name": "엘커피 온두라스 파카마라",
+    "origin": [
+      "Honduras"
+    ],
+    "roast_point": 2,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Green/Vegetative"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Dried fruit",
+          "descriptor": "Prune"
+        },
+        {
+          "category": "Green/Vegetative",
+          "subCategory": "Green/Vegetative",
+          "descriptor": "Eucalyptus"
+        }
+      ]
+    },
+    "product": {
+      "price": 21000,
+      "price_per_100g": 10500,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://elcafe.co.kr/product/970"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_060",
+    "name": "180로스터리 인도네시아 쁘가싱 (가향)",
+    "origin": [],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Cocoa"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Molasses"
+        }
+      ]
+    },
+    "product": {
+      "price": 43200,
+      "price_per_100g": 8640,
+      "weight": "500g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/180coffeeroasters/products/12600936166"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_061",
+    "name": "180로스터리 코스타리카 벨라비스타",
+    "origin": [],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Molasses"
+        }
+      ]
+    },
+    "product": {
+      "price": 46800,
+      "price_per_100g": 4680,
+      "weight": "1kg",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/180coffeeroasters/products/12518016405"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_062",
+    "name": "모모스 인도 하트나기리 SLN9",
+    "origin": [],
+    "roast_point": null,
+    "taste": {
+      "acidity": null,
+      "sweetness": null,
+      "bitterness": null,
+      "body": null
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Mapple syrup"
+        }
+      ]
+    },
+    "product": {
+      "price": 24000,
+      "price_per_100g": 12000,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://momos.co.kr/product/2572"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_063",
+    "name": "모모스 에콰도르 CVM",
+    "origin": [
+      "Ecuador"
+    ],
+    "roast_point": 3,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Honey"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Sweet",
+          "descriptor": "Sweet"
+        }
+      ]
+    },
+    "product": {
+      "price": 25000,
+      "price_per_100g": 25000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://momos.co.kr/product/2569"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_064",
+    "name": "모모스 에디오피아 게샤빌리지",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 3,
+    "taste": {
+      "acidity": 4.5,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 1.5
+    },
+    "flavor": {
+      "categories": [
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Honey"
+        }
+      ]
+    },
+    "product": {
+      "price": 29000,
+      "price_per_100g": 29000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://momos.co.kr/product/2559"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_065",
+    "name": "모모스 코스타리카 수바마",
+    "origin": [
+      "Costa Rica"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Hazelnut"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Mapple syrup"
+        }
+      ]
+    },
+    "product": {
+      "price": 16000,
+      "price_per_100g": 8000,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://momos.co.kr/product/2527"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_066",
+    "name": "아이덴티티 에디오피아 바샤 베켈레",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 2,
+    "taste": {
+      "acidity": 4.5,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 1.5
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Lavender"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        }
+      ]
+    },
+    "product": {
+      "price": 17000,
+      "price_per_100g": 13000,
+      "weight": "150g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/identity_coffeelab/products/12828340377"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_067",
+    "name": "아이덴티티 온두라스 엘라우렐",
+    "origin": [
+      "Honduras"
+    ],
+    "roast_point": 2,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [
+        "Green/Vegetative",
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Green/Vegetative",
+          "subCategory": "Green/Vegetative",
+          "descriptor": "Herb-like"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Walnut"
+        }
+      ]
+    },
+    "product": {
+      "price": 14000,
+      "price_per_100g": 10500,
+      "weight": "150g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/identity_coffeelab/products/12828265724"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_068",
+    "name": "레쉬커피 미드나잇 블렌드",
+    "origin": [
+      "Ethiopia",
+      "Colombia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        }
+      ]
+    },
+    "product": {
+      "price": 20900,
+      "price_per_100g": 10450,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/leshycoffee/products/10913434128"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_069",
+    "name": "레쉬커피 체리밤 블렌드",
+    "origin": [
+      "Ethiopia",
+      "Colombia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Cherry Blossom"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Cherry"
+        }
+      ]
+    },
+    "product": {
+      "price": 55900,
+      "price_per_100g": 11190,
+      "weight": "500g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/leshycoffee/products/10315108104"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_070",
+    "name": "UFO 탄자니아 게이샤",
+    "origin": [
+      "Tanzania"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 3,
+      "bitterness": 1.5,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Green/Vegetative"
+      ],
+      "descriptors": [
+        {
+          "category": "Green/Vegetative",
+          "subCategory": "Green/Vegetative",
+          "descriptor": "Herb-like"
+        }
+      ]
+    },
+    "product": {
+      "price": 17000,
+      "price_per_100g": 17000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://ufocoffee.co.kr/shop/detail/69296290d8a929fa5573c06d"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_071",
+    "name": "UFO 브라질",
+    "origin": [
+      "Brazil"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 2.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Floral"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Cherry"
+        }
+      ]
+    },
+    "product": {
+      "price": 13000,
+      "price_per_100g": 13000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://ufocoffee.co.kr/shop/detail/692960c5d8a929fa5573a1c4"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_072",
+    "name": "UFO 콜롬비아 게이샤",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3.5,
+      "bitterness": 1,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Grape"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Lemon"
+        }
+      ]
+    },
+    "product": {
+      "price": 29000,
+      "price_per_100g": 29000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://ufocoffee.co.kr/shop/detail/6929611dd8a929fa5573a990"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_073",
+    "name": "1%커피 예가체프 아리차",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        }
+      ]
+    },
+    "product": {
+      "price": 10000,
+      "price_per_100g": 5000,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://brand.naver.com/1procoffee/products/10012730604"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_074",
+    "name": "킨온커피 에디오피아 넨센보",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Floral"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Black Tea",
+          "descriptor": "Earl Grey"
+        }
+      ]
+    },
+    "product": {
+      "price": 12900,
+      "price_per_100g": 6450,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/keenoncoffee/products/10461623255"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_075",
+    "name": "킨온커피 에디오피아 니구세 몰케",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Lemon"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Dried fruit",
+          "descriptor": "Prune"
+        }
+      ]
+    },
+    "product": {
+      "price": 20900,
+      "price_per_100g": 10450,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/keenoncoffee/products/12113064634"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_076",
+    "name": "언더빈 케냐 니에리 키와와무루루",
+    "origin": [
+      "Kenya"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        }
+      ]
+    },
+    "product": {
+      "price": 10000,
+      "price_per_100g": 6666,
+      "weight": "150g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/underbean/products/12776936977"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_077",
+    "name": "언더빈 엘살바도르 산타로사 파카마라허니",
+    "origin": [
+      "El Salvador"
+    ],
+    "roast_point": 5,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Floral"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        }
+      ]
+    },
+    "product": {
+      "price": 14500,
+      "price_per_100g": 9666,
+      "weight": "150g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/underbean/products/10933219955"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_078",
+    "name": "언더빈 온두라스 엘네그로 파라이네마",
+    "origin": [
+      "Honduras"
+    ],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        }
+      ]
+    },
+    "product": {
+      "price": 10000,
+      "price_per_100g": 6666,
+      "weight": "150g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/underbean/products/12744280943"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_079",
+    "name": "히치커피 엘파라이소 리치피치",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Lychee"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Pineapple"
+        }
+      ]
+    },
+    "product": {
+      "price": 12000,
+      "price_per_100g": 12000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/roastery_y/products/12074452844"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_080",
+    "name": "히치커피 에디오피아 벤치마지",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [],
+      "descriptors": []
+    },
+    "product": {
+      "price": 8800,
+      "price_per_100g": 8800,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/bibcoffee/products/12003550703"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_081",
+    "name": "빕커피 콜롬비아 세로아줄 게이샤",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Cherry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Mango"
+        }
+      ]
+    },
+    "product": {
+      "price": 39000,
+      "price_per_100g": 26000,
+      "weight": "150g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/bibcoffee/products/12003550703"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_082",
+    "name": "디포인트커피 코스타리카 돈마요엘 (가향)",
+    "origin": [
+      "Costa Rica"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Nutty/Cocoa",
+        "Spices"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Apple"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        },
+        {
+          "category": "Spices",
+          "subCategory": "Brown spice",
+          "descriptor": "Cinnamon"
+        }
+      ]
+    },
+    "product": {
+      "price": 17600,
+      "price_per_100g": 8800,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/dpointcoffee/products/12366262184"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_083",
+    "name": "디포인트커피 과테말라 쿠프 아그리코라",
+    "origin": [
+      "Guatemala"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Dried fruit",
+          "descriptor": "Prune"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Cherry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Cranberry"
+        }
+      ]
+    },
+    "product": {
+      "price": 16000,
+      "price_per_100g": 16000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/dpointcoffee/products/11253612586"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_084",
+    "name": "디콰이엇 소프트엠버 블렌드",
+    "origin": [
+      "Brazil",
+      "India",
+      "Ethiopia",
+      "Guatemala"
+    ],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Cocoa"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Caramelized"
+        }
+      ]
+    },
+    "product": {
+      "price": 11900,
+      "price_per_100g": 7437,
+      "weight": "160g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/dequiet/products/11843823163"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_085",
+    "name": "디콰이엇 문라이트 블렌드",
+    "origin": [
+      "Colombia",
+      "Brazil",
+      "Ethiopia",
+      "Honduras"
+    ],
+    "roast_point": 5,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity",
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Lavender"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Chocolate"
+        }
+      ]
+    },
+    "product": {
+      "price": 11900,
+      "price_per_100g": 7437,
+      "weight": "160g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/dequiet/products/11844025691"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_086",
+    "name": "얼터커피 코스타리카 로스유칼립토스 게이샤",
+    "origin": [
+      "Costa Rica"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        }
+      ]
+    },
+    "product": {
+      "price": 18000,
+      "price_per_100g": 18000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/altercoffee/products/11576422066"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_087",
+    "name": "얼터커피 시다모 벤사 코코세",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Floral"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Pineapple"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        }
+      ]
+    },
+    "product": {
+      "price": 14000,
+      "price_per_100g": 14000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/altercoffee/products/12090072771"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_088",
+    "name": "오멜라스 과테말라 알로테낭고 카우일",
+    "origin": [
+      "Guatemala"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 2,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Dried fruit",
+          "descriptor": "Prune"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Mapple syrup"
+        }
+      ]
+    },
+    "product": {
+      "price": 14000,
+      "price_per_100g": 7000,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/omelascoffee/products/12741734744"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_089",
+    "name": "오멜라스 브라질 세하도",
+    "origin": [
+      "Brazil"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 1.5,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 4.5
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Almond"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Cocoa"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Brown sugar"
+        }
+      ]
+    },
+    "product": {
+      "price": 12000,
+      "price_per_100g": 6000,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/omelascoffee/products/12741703189"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_090",
+    "name": "몰리프 스트로베리 핑크 블렌드",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": 5,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Peach"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        }
+      ]
+    },
+    "product": {
+      "price": 16000,
+      "price_per_100g": 6400,
+      "weight": "250g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/mollif/products/11075208477"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_091",
+    "name": "아우라 콜롬비아 레몬그라스 무산소",
+    "origin": [
+      "Colombia"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Green/Vegetative"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Lemon"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Lychee"
+        },
+        {
+          "category": "Green/Vegetative",
+          "subCategory": "Green/Vegetative",
+          "descriptor": "Lemongrass"
+        }
+      ]
+    },
+    "product": {
+      "price": 25000,
+      "price_per_100g": 12500,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/auracoffee/products/12593600518"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_092",
+    "name": "아우라 케냐 록번 니에리",
+    "origin": [
+      "Kenya"
+    ],
+    "roast_point": 4,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Dried fruit",
+          "descriptor": "Prune"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Brown sugar",
+          "descriptor": "Brown sugar"
+        }
+      ]
+    },
+    "product": {
+      "price": 18000,
+      "price_per_100g": 9000,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/auracoffee/products/12130037550"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_093",
+    "name": "원세컨즈 에디오피아 구지 사키소",
+    "origin": [
+      "Ethiopia"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3.5,
+      "sweetness": 4,
+      "bitterness": 2,
+      "body": 2.5
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Rose"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Strawberry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Cherry"
+        }
+      ]
+    },
+    "product": {
+      "price": 9500,
+      "price_per_100g": 4750,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/onesecondcoffee/products/11627875031"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_094",
+    "name": "커피멜로우 과테말라 엘인헤르또 게이샤",
+    "origin": [
+      "Guatemala"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Floral"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Lemon"
+        }
+      ]
+    },
+    "product": {
+      "price": 36000,
+      "price_per_100g": 3600,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/coffeemellow/products/10532999400"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_095",
+    "name": "커피멜로우 과테말라 엘 소코로",
+    "origin": [
+      "Guatemala"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 3,
+      "sweetness": 4.5,
+      "bitterness": 2,
+      "body": 3.5
+    },
+    "flavor": {
+      "categories": [
+        "Fruity",
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Citrus fruit",
+          "descriptor": "Orange"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Hazelnut"
+        }
+      ]
+    },
+    "product": {
+      "price": 11000,
+      "price_per_100g": 11000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/coffeemellow/products/9062015315"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_096",
+    "name": "JNBean 인도네시아 만델링",
+    "origin": [
+      "Indonesia"
+    ],
+    "roast_point": 7,
+    "taste": {
+      "acidity": 1,
+      "sweetness": 3,
+      "bitterness": 4,
+      "body": 5
+    },
+    "flavor": {
+      "categories": [
+        "Nutty/Cocoa"
+      ],
+      "descriptors": [
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Cocoa",
+          "descriptor": "Dark chocolate"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Cashew"
+        },
+        {
+          "category": "Nutty/Cocoa",
+          "subCategory": "Nutty",
+          "descriptor": "Almond"
+        }
+      ]
+    },
+    "product": {
+      "price": 12000,
+      "price_per_100g": 6000,
+      "weight": "200g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/jnbeanscoffee/products/11974858950"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_097",
+    "name": "러스브루어스 니카라과 핀카 리브레",
+    "origin": [
+      "Nicaragua"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity",
+        "Sweet"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Jasmine"
+        },
+        {
+          "category": "Floral",
+          "subCategory": "Black Tea",
+          "descriptor": "Earl Grey"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Grape"
+        },
+        {
+          "category": "Sweet",
+          "subCategory": "Vanilla",
+          "descriptor": "Vanilla"
+        }
+      ]
+    },
+    "product": {
+      "price": 13500,
+      "price_per_100g": 13500,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/rus_brewers/products/12892109514"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_098",
+    "name": "러스브루어스 페루 로스 산토스",
+    "origin": [
+      "Peru"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 4,
+      "sweetness": 3,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [
+        "Floral",
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Floral",
+          "subCategory": "Floral",
+          "descriptor": "Rose"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Berry"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Pineapple"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Berry",
+          "descriptor": "Cranberry"
+        }
+      ]
+    },
+    "product": {
+      "price": 20000,
+      "price_per_100g": 20000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/rus_brewers/products/12840780144"
+    },
+    "recipe_override": {}
+  },
+  {
+    "id": "coffee_099",
+    "name": "러스브루어스 파나마 알토밤비토",
+    "origin": [
+      "Panama"
+    ],
+    "roast_point": null,
+    "taste": {
+      "acidity": 5,
+      "sweetness": 3.5,
+      "bitterness": 1,
+      "body": 2
+    },
+    "flavor": {
+      "categories": [
+        "Fruity"
+      ],
+      "descriptors": [
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Grape"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Other fruit",
+          "descriptor": "Mango"
+        },
+        {
+          "category": "Fruity",
+          "subCategory": "Dried fruit",
+          "descriptor": "Raisin"
+        }
+      ]
+    },
+    "product": {
+      "price": 39000,
+      "price_per_100g": 39000,
+      "weight": "100g",
+      "reviews": null,
+      "url": "https://smartstore.naver.com/rus_brewers/products/12864587770"
+    },
+    "recipe_override": {}
   }
 ]
